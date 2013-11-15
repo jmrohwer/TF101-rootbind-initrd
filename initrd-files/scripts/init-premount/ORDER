@@ -1,0 +1,2 @@
+/scripts/init-premount/brltty
+[ -e /conf/param.conf ] && . /conf/param.conf
